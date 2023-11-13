@@ -1,2 +1,2 @@
 # sidebar
-only written javascript for functioning of sidebar
+I have written only javascript for functioning of sidebar
